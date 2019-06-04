@@ -13,7 +13,7 @@ public class StringQueue implements Queue {
 	private List<String> elements = new ArrayList<String>();
 	private int maxSize = 5;
 
-	public StringQueue(int maxsize){
+	public StringQueue(int maxSize){
 		this.maxSize = maxSize;
 	}		//this.maxsize
 	

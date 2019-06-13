@@ -19,8 +19,9 @@
 - Sie   werden die „selben“ Testfälle   mehrfach   erstellen   müssen   um „mehrere Variationen“ für einen möglichst vollständigen  Test zu  erreichen. Achten  Sie dabei mit unterschiedlichen Daten zu testen.
 - JavaDoc Kommentare erstellen.oIntegrieren Sie ein Bild (der generierten Dokumentation) in Ihren Report.
 
-- [ ] Passen  Sie  Ihr  pom.xml  auf  das  Projekt  an,damit Sie  das  Projekt erstellenaber  auch Dokumentation generieren können.
-- EntwicklerInnen Informationenhinzufügen.oIntegration LoggingBibliothek log4jmittels MavenDependencies.
+- [x] Passen  Sie  Ihr  pom.xml  auf  das  Projekt  an,damit Sie  das  Projekt erstellenaber  auch Dokumentation generieren können.
+- EntwicklerInnen Informationenhinzufügen.
+- Integration LoggingBibliothek log4j mittels Maven Dependencies.
 
 - [ ] Log4j (Version 2) integrieren und in jeder Methode ins Log schreiben
 - Siehe aktualisiertes Stack Beispiel.oErstellen Sie einen Statischen Logger der auf die Konsole schreibt.

@@ -82,7 +82,8 @@ public class StringQueue implements Queue {
 	}
 
 	/**
-	 * element string would always be empty with "" outcommented the empty string
+	 * element string would always be empty with "" 
+	 * outcommented the empty string
 	 * 
 	 * @return first added element of ArrayList
 	 */

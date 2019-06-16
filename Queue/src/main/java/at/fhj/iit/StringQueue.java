@@ -3,7 +3,6 @@ package at.fhj.iit;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.NoSuchElementException;
-
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 
@@ -19,7 +18,7 @@ import org.apache.logging.log4j.LogManager;
  */
 public class StringQueue implements Queue {
 
-	private static final java.util.logging.Logger logger = LogManager.getLogger(StringQueue.class);
+	private static final Logger logger = LogManager.getLogger(StringQueue.class);
 	private List<String> elements = new ArrayList<String>();
 	private int maxSize = 5;
 
@@ -130,11 +129,11 @@ public class StringQueue implements Queue {
 	public String element() {
 		String element = peek();
         logger.info("element: " + element);
-		if (element == null)
+		if (element == null) {
 			logger.error("NoSuchElementException");
 			throw new NoSuchElementException("there's no element any more");
-
+		}
 		return element;
 	}
-
+	
 }

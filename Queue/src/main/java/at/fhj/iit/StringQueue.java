@@ -91,7 +91,6 @@ public class StringQueue implements Queue {
 	public String remove() {
 		String element = poll();
 		logger.info("Element removed: " + element);
-		// element = ""; //element is always null
 		 if (element == null) {
 	            logger.error("NoSuchElementException thrown");
 	            throw new NoSuchElementException("there's no element any more");

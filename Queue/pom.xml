@@ -20,9 +20,6 @@
 			<role>Student</role>
 		  </roles>
 		  <timezone>Europe/Vienna</timezone>
-		  <properties>
-			<picUrl>https://avatars2.githubusercontent.com/u/48951358?s=400&v=4</picUrl>
-		  </properties>
 		</developer>     
 		<developer>
 		  <id>Maddin27</id>
@@ -35,9 +32,6 @@
 			<role>Student</role>
 		  </roles>
 		  <timezone>Europe/Vienna</timezone>
-		  <properties>
-			<picUrl>https://avatars3.githubusercontent.com/u/48949701?s=400&v=4</picUrl>
-		  </properties>
 		</developer>     
 	</developers>
 	

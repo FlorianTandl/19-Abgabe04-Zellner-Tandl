@@ -15,7 +15,7 @@
 - IntegrierenSie ein Bild (der generierten Dokumentation) in Ihren Report.
 
 
-- [ ] Erstellung JUnit Tests (vollständig testen, mehrere Varianten)
+- [x] Erstellung JUnit Tests (vollständig testen, mehrere Varianten)
 - Sie   werden die „selben“ Testfälle   mehrfach   erstellen   müssen   um „mehrere Variationen“ für einen möglichst vollständigen  Test zu  erreichen. Achten  Sie dabei mit unterschiedlichen Daten zu testen.
 - JavaDoc Kommentare erstellen.oIntegrieren Sie ein Bild (der generierten Dokumentation) in Ihren Report.
 

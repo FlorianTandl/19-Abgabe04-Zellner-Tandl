@@ -11,7 +11,7 @@
 - Bei Bedarf Optimieren Sie das Queue Beispiel.
 - Ergänzen Sie das Beispiel nach eigenen Ermessen um es testen zu können.
 
-- [ ] Erstellen  Sie  für  Klasse  und  alle  Methoden  Kommentare  um  mittels  Javadoc  eine  API Dokumentation zu erzeugen
+- [x] Erstellen  Sie  für  Klasse  und  alle  Methoden  Kommentare  um  mittels  Javadoc  eine  API Dokumentation zu erzeugen
 - IntegrierenSie ein Bild (der generierten Dokumentation) in Ihren Report.
 
 
@@ -23,7 +23,7 @@
 - EntwicklerInnen Informationenhinzufügen.
 - Integration LoggingBibliothek log4j mittels Maven Dependencies.
 
-- [ ] Log4j (Version 2) integrieren und in jeder Methode ins Log schreiben
+- [x] Log4j (Version 2) integrieren und in jeder Methode ins Log schreiben
 - Siehe aktualisiertes Stack Beispiel.oErstellen Sie einen Statischen Logger der auf die Konsole schreibt.
 - Konfigurieren Sie Logger über ein properties File.
 - Geben Sie eine Info Lognachricht bei Aufrufeiner jeden Methode aus.
